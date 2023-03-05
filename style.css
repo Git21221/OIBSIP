@@ -745,6 +745,9 @@ strong {
 .rt-srvc-tasks {
   row-gap: 20px;
 }
+.fa-bars, .fa-xmark{
+  padding: 6px 0;
+}
 /* media query */ /*tab*/
 @media (max-width: 1226px) {
   .rt-srvc-tasks-1-nmwrk {
